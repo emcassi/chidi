@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "559135948067",
+    "project_id": "chidi-865e7",
+    "storage_bucket": "chidi-865e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559135948067:android:4de093bc8bd61af2896096",
+        "android_client_info": {
+          "package_name": "com.wayneapps.chidi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559135948067-f3ma0mu9f97joht0ih95j297i42mvufu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt6lib1UrtP3vxGEMGUQCf9Jx0bn4z8gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559135948067-f3ma0mu9f97joht0ih95j297i42mvufu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "559135948067-2a56cn3ued4qfoab79e9hrtbpedf3f16.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wayneapps.chidi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
